@@ -15,7 +15,6 @@ body {
 .content {
   display: flex;
   background: #f6ecec;
-  height: 85vh;
   max-height: 580px;
   margin: 25px auto 20px;
   width: 500px;
